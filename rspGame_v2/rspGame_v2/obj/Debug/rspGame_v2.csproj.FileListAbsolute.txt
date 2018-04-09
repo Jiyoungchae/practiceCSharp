@@ -1,0 +1,6 @@
+E:\devPractise\C#\rspGame_v2\rspGame_v2\bin\Debug\rspGame_v2.exe.config
+E:\devPractise\C#\rspGame_v2\rspGame_v2\obj\Debug\rspGame_v2.csprojResolveAssemblyReference.cache
+E:\devPractise\C#\rspGame_v2\rspGame_v2\bin\Debug\rspGame_v2.exe
+E:\devPractise\C#\rspGame_v2\rspGame_v2\bin\Debug\rspGame_v2.pdb
+E:\devPractise\C#\rspGame_v2\rspGame_v2\obj\Debug\rspGame_v2.exe
+E:\devPractise\C#\rspGame_v2\rspGame_v2\obj\Debug\rspGame_v2.pdb
